@@ -1,0 +1,12 @@
+main.c:100:5:main	1
+main.c:155:6:SystemClock_Config	3
+main.c:192:13:MX_USART2_UART_Init	2
+main.c:225:13:MX_GPIO_Init	1
+main.c:238:10:calculate_crc	4
+main.c:255:9:check_crc	3
+main.c:270:6:Send_data_crc	2
+main.c:284:9:readHoldingRegs	2
+main.c:325:9:writeMultRegs	2
+main.c:369:6:HAL_UARTEx_RxEventCallback	9
+main.c:420:6:send_char	2
+main.c:430:6:Error_Handler	1

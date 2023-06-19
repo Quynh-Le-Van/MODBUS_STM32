@@ -1,0 +1,10 @@
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\bin\Debug\ModbusProtocolRtu.exe.config
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\bin\Debug\ModbusProtocolRtu.exe
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\bin\Debug\ModbusProtocolRtu.pdb
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\obj\Debug\ModbusProtocolRtu.csprojAssemblyReference.cache
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\obj\Debug\ModbusProtocolRtu.Form1.resources
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\obj\Debug\ModbusProtocolRtu.Properties.Resources.resources
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\obj\Debug\ModbusProtocolRtu.csproj.GenerateResource.cache
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\obj\Debug\ModbusProtocolRtu.csproj.CoreCompileInputs.cache
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\obj\Debug\ModbusProtocolRtu.exe
+D:\Documents\IOT\cshrap\ModbusProtocolRtu\ModbusProtocolRtu\obj\Debug\ModbusProtocolRtu.pdb
